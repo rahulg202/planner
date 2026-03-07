@@ -1,0 +1,5 @@
+streamlit>=1.32.0
+pandas>=2.0.0
+openpyxl>=3.1.0
+hypothesis>=6.100.0
+pulp>=2.7.0
